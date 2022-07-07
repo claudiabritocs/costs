@@ -1,21 +1,36 @@
 {
-    "projects": [],
-    "categories": [
-        {
-            "id": 1,
-            "name": "Infra"
-        },
-        {
-            "id": 2,
-            "name": "Design"
-        },
-        {
-            "id": 3,
-            "name": "Planejamento"
-        },
-        {
-            "id": 4,
-            "name": "Desenvolvimento"
-        }
-    ]
+  "projects": [
+    {
+      "name": "Agendamento",
+      "budget": "544",
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "Agendamento",
+      "budget": "8555",
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Design"
+    },
+    {
+      "id": 3,
+      "name": "Planejamento"
+    },
+    {
+      "id": 4,
+      "name": "Desenvolvimento"
+    }
+  ]
 }
